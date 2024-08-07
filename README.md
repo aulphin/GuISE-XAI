@@ -7,6 +7,6 @@ evening_medi_rise.ipynb : Finetuned is performed in Resnet-50 model utilizing MR
 
 After that Finetuned model is used for RISE and GuISE method experimentation for medical image dataset of MRI with the demo pynb file 
 
-evening_medi_rise.ipynb : RISE XAI method
+evening_medi_rise.ipynb / morning_medi.ipynb : RISE XAI method
 
-morning_medi.ipynb : GuISE XAI method
+Evening_medi_guise.ipynb: GuISE XAI method
