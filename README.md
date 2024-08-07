@@ -17,4 +17,4 @@ GRAD-CAM++, Score-CAM, Faster Score-CAM official implementation code - https://g
 
 For General image explanation, we utilized publicly available ImageNet and PASCAL-VOC images while experimenting.
 
-GT_metric_GuISE.ipynb: In this Ground truth metric computation is implemented in GuISE method 
+GT_metric_GuISE.ipynb: In this Ground truth metric computation is implemented in GuISE method utilizing publicly available MSRA-B dataset
