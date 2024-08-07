@@ -10,3 +10,11 @@ After that Finetuned model is used for RISE and GuISE method experimentation for
 evening_medi_rise.ipynb / morning_medi.ipynb : RISE XAI method
 
 Evening_medi_guise.ipynb: GuISE XAI method
+
+The existing method, we utilized is 
+RISE XAI method official implementation code - https://github.com/eclique/RISE
+GRAD-CAM++, Score-CAM, Faster Score-CAM official implementation code - https://github.com/tabayashi0117/Score-CAM/blob/master/Score-CAM.ipynb
+
+For General image explanation, we utilized publicly available ImageNet and PASCAL-VOC images while experimenting.
+
+GT_metric_GuISE.ipynb: In this Ground truth metric computation is implemented in GuISE method 
