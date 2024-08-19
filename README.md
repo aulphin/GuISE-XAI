@@ -18,8 +18,6 @@ GRAD-CAM++, Score-CAM, Faster Score-CAM official implementation code - https://g
 
 For General image explanation, we utilized publicly available ImageNet and PASCAL-VOC images while experimenting.
 
-GT_metric_GuISE.ipynb: In this Ground truth metric computation is implemented in GuISE method utilizing publicly available MSRA-B dataset
-
 GuISE(kmeans).ipynb: Inplace of Fuzzy experimentation utilizing k-means clustering 
 
 For detailed information about the dataset and its specifics, please refer to the referenced paper. If you utilize information from this source, ensure to cite it appropriately.
